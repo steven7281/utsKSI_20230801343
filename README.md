@@ -1,6 +1,6 @@
 # 🚚 Manajemen Supir & Kendaraan
 
-![Laravel](https://img.shields.io/badge/Laravel-10.x-red?logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel)
 ![Filament](https://img.shields.io/badge/Filament-Admin-blueviolet?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjwvc3ZnPg==)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
