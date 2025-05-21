@@ -1,10 +1,10 @@
 # 🚚 Manajemen Supir & Kendaraan
 
 ![Laravel](https://img.shields.io/badge/Laravel-12.x-red?logo=laravel)
-![Filament](https://img.shields.io/badge/Filament-Admin-blueviolet?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjwvc3ZnPg==)
+![Filament](https://img.shields.io/badge/Filament-v3-blueviolet?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjwvc3ZnPg==)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
-> **Aplikasi modern untuk mengelola data supir & kendaraan berbasis Laravel + Filament.**
+> **Aplikasi modern untuk mengelola data supir & kendaraan berbasis Laravel 12 + Filament v3.**
 
 ---
 
@@ -14,7 +14,7 @@
 - Relasi: Setiap kendaraan terhubung ke supir
 - Validasi unik & wajib isi
 - Tabel interaktif: search, sort, filter
-- UI Admin modern & responsif (Filament)
+- UI Admin modern & responsif (Filament v3)
 - Tombol **Edit** & **Delete** langsung di tabel
 
 ---
@@ -85,10 +85,12 @@
 ---
 
 ## ⚙️ Kebutuhan Sistem
-- PHP >= 8.1
+- PHP >= 8.2
 - Composer
 - Node.js & NPM
 - MySQL/MariaDB
+- **Laravel 12**
+- **Filament v3**
 
 ---
 
