@@ -71,11 +71,6 @@
 
 ---
 
-## 🖥️ Tampilan (Contoh)
-
-![Contoh Tampilan Admin](https://placehold.co/900x300?text=Filament+Admin+Panel+Screenshot)
-
----
 
 ## 📚 Penggunaan
 - Menu **Manajemen Supir**: Kelola data supir
