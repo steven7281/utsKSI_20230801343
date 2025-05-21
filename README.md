@@ -99,4 +99,5 @@ Aplikasi ini menggunakan [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
-> Dibuat untuk kebutuhan **UTS KSI 20230801343**
+> Dibuat untuk kebutuhan **UTS KSI**
+> Steven Gerrard Sianipar_20230801343
